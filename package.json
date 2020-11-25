@@ -1,0 +1,23 @@
+{
+  "name": "arraylist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./src/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaMarjina/ArrayList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictoriaMarjina/ArrayList/issues"
+  },
+  "homepage": "https://github.com/VictoriaMarjina/ArrayList#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
